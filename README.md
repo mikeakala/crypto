@@ -36,7 +36,7 @@ For detailed function descriptions, please refer to the comments in the `secure_
 
 ## Security Considerations
 
-This library uses well-established cryptographic primitives from libsodium and OpenSSL. However, proper use of cryptographic functions requires careful consideration of your specific security requirements. Always ensure you're using the latest versions of libsodium and OpenSSL, and consider consulting with a security expert for critical applications.
+This library uses well-established cryptographic primitives from libsodium. However, proper use of cryptographic functions requires careful consideration of your specific security requirements. Always ensure you're using the latest versions of libsodium, and consider consulting with a security expert for critical applications.
 
 ## 📝 License
 
